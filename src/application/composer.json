@@ -1,0 +1,16 @@
+{
+  "name": "zf2/module-development-skeleton",
+  "description": "Skeleton for module development in ZF2",
+  "license": "BSD-3-Clause",
+  "repositories": [
+    {
+      "type": "path",
+      "url": "../module/vendor/module-name"
+    }
+  ],
+  "require": {
+    "php": ">=5.6",
+    "zendframework/zendframework": "~2.5",
+    "vendor/module-name": "dev-master"
+  }
+}

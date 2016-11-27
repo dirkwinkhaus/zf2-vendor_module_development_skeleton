@@ -1,0 +1,25 @@
+{
+    "name": "vendor/module-name",
+    "description": "ZF2 demo vendor module",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "zf2",
+        "zend",
+        "vendor",
+        "module"
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4" : {
+            "Vendor\\Module\\Name\\": [
+                "src/"
+            ]
+        },
+        "classmap": [
+            "Module.php"
+        ]
+    }
+}
