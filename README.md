@@ -15,7 +15,7 @@ Installation
 ------------
 To create your development project clone this repository by  
 
-    git clone XXXXXX
+    git clone https://github.com/dirkwinkhaus/zf2-vendor_module_development_skeleton
 
 Then you have to insert this line in your hosts file:
 

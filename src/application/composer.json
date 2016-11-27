@@ -1,6 +1,6 @@
 {
-  "name": "zf2/module-development-skeleton",
-  "description": "Skeleton for module development in ZF2",
+  "name": "zf2/vendor-module-development-skeleton",
+  "description": "Skeleton for vendor module development in ZF2",
   "license": "BSD-3-Clause",
   "repositories": [
     {
